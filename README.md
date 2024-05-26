@@ -1,12 +1,13 @@
 # Taller01-Ramas
 Taller grupal #1 Grupo: Paul Alcívar, Hilda Angulo, José Marín, Alejandro Sornoza
 
+#CAPTURA DE CAMBIO DE FORMATO POR JOSE MARIN
+!["CAPTURA DE CAMBIO DE FORMATO POR JOSE MARIN"](images/formato.png)
 
 #CAPTURA CAMBIO DE LUGAR DE NOMBRE Y CANCION POR PAUL ALCIVAR
 !["Captura Paul"] (images/cambioPaul.png)
 
 #CAMBIO DE ORDEN POR HILDA ANGULO
-
 !["Captura Hilda"](images/cambioAngulo.png)
 
 
