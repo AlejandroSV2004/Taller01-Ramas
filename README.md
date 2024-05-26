@@ -5,7 +5,14 @@ Taller grupal #1 Grupo: Paul Alcívar, Hilda Angulo, José Marín, Alejandro Sor
 #CAPTURA CAMBIO DE LUGAR DE NOMBRE Y CANCION POR PAUL ALCIVAR
 !["Captura Paul"] (images/cambioPaul.png)
 
+#CAMBIO DE ORDEN POR HILDA ANGULO
+
+!["Captura Hilda"](images/cambioAngulo.png)
+
+
 
 #CAPTURA DEL CAMBIO DE TITULO POR ALEJANDRO SORNOZA
 !["CAPTURA DEL CAMBIO DE TITULO POR ALEJANDRO SORNOZA"](images/titulo.png)
+
+
 
